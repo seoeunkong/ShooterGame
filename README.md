@@ -1,5 +1,5 @@
 # ShooterGame
-비행기 전투 게임 
+비행기 전투 게임 [플레이 영상 링크](https://youtu.be/rULKhRp-zqM)
 
  
 ## 🖥 프로젝트 소개
